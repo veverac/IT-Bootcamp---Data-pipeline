@@ -13,8 +13,9 @@ Podaci su preuzimani sa (J)API-ja, kao i iz CSV i parquet fajlova.
 Prvo su napravljene funkcije za preuzimanje svih potrebnih podataka, koje čuvaju originalne fajlove u /data/raw folderu.
 
 Nakon toga, napisane su funkcije za čišćenje preuzetih podataka:
-    - uklonjeni su duplikati;
-    - sređeni tekstualni podaci;
-    - uređene cene;
-    - izvršena validacija porudžbina
+
+- uklonjeni su duplikati;
+- sređeni tekstualni podaci;
+- uređene cene;
+- izvršena validacija porudžbina
 
